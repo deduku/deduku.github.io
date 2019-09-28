@@ -21,7 +21,7 @@ title                    : "Deduku"
 title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dee"
-description              : "An amazing website."
+description              : "Dee website."
 url                      : "https://deduku.github.io"
 baseurl                  : "/jurnal"
 repository               : "deduku/deduku.github.io"
